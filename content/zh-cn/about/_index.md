@@ -22,7 +22,7 @@ weight: 0
 
 {{< github/contributors >}}
 
-与其它对我们提供帮助和资讯的小可爱们。
+与其他对我们提供帮助和资讯的小可爱们。
 
 ## 联系方式
 
@@ -32,7 +32,7 @@ Twitter {{< shields/twitter MtFwiki >}}
 
 GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-邮件 <hi@mtf.wiki>
+邮件 <mtfwiki@project-trans.org>
 
 ## 致谢
 
